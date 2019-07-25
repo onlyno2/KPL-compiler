@@ -1,0 +1,7 @@
+
+Program Example1; (* Example 1 *)
+Var a: integer;
+b: char;
+Begin
+a, b := 1, 1;
+End. (* Example 1 *)

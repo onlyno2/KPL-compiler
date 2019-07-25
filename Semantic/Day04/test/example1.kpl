@@ -1,0 +1,8 @@
+
+Program Example1; (* Example 1 *)
+Function Foo(Var a: Integer) : Integer;
+Var A: Integer;
+begin
+end;
+Begin
+End. (* Example 1 *)
