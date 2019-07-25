@@ -1,0 +1,5 @@
+
+Program Example1; (* Example 1 *)
+Type vector = array(.10.) of vector;
+Begin
+End. (* Example 1 *)

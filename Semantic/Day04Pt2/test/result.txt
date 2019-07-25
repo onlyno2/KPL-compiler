@@ -1,0 +1,61 @@
+example1.kpl
+Program EXAMPLE1
+
+example2.kpl
+Program EXAMPLE2
+    Var N : Int
+    Function F : Int
+        Param N : Int
+
+example3.kpl
+Program EXAMPLE3
+    Var I : Int
+    Var N : Int
+    Var P : Int
+    Var Q : Int
+    Var C : Char
+    Procedure HANOI
+        Param N : Int
+        Param S : Int
+        Param Z : Int
+
+
+example4.kpl
+17-25:A basic type expected.
+
+example5.kpl
+Program EXAMPLE5
+    Const C = 1
+    Type T = Char
+    Function F : Char
+        Param I : Int
+        Const B = 1
+        Type A = Arr(5,Char)
+
+example6.kpl
+Program EXAMPLE6
+    Const C1 = 10
+    Const C2 = 'a'
+    Type T1 = Arr(10,Int)
+    Var V1 : Int
+    Var V2 : Arr(10,Arr(10,Int))
+    Function F : Int
+        Param P1 : Int
+        Param VAR P2 : Char
+
+    Procedure P
+        Param V1 : Int
+        Const C1 = 'a'
+        Const C3 = 10
+        Type T1 = Int
+        Type T2 = Arr(10,Int)
+        Var V2 : Arr(10,Int)
+        Var V3 : Char
+
+
+
+
+
+
+
+
