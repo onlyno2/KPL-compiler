@@ -1,0 +1,7 @@
+Program Example1; /* Example 1 */
+Var a: integer;
+b: integer;
+Begin 
+a:=1;
+call WRITEI(A);
+End. /* Example 1 */

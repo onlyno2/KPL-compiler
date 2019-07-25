@@ -1,0 +1,26 @@
+0:  J 1
+1:  INT 5
+2:  LA 0,4
+3:  CV
+4:  LC 1
+5:  ST
+6:  CV
+7:  LI
+8:  LC 7
+9:  LE
+10:  FJ 23
+11:  WLN
+12:  LV 0,4
+13:  WRI
+14:  CV
+15:  CV
+16:  LI
+17:  LC 1
+18:  AD
+19:  ST
+20:  CV
+21:  LI
+22:  J 8
+23:  DCT 1
+24:  HL
+
