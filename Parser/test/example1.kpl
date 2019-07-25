@@ -1,0 +1,9 @@
+PROGRAM X;
+
+Var a,b,c : integer;
+	g : integer;
+BEGIN
+CALL WRITELN();
+CALL WRITELN()
+CALL WRITELN();
+END.

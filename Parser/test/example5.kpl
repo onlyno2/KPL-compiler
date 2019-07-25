@@ -1,0 +1,25 @@
+Program Example5; (* Factorial *)
+   
+Var n, b, h5, k20 : Integer;
+    i : char;
+
+Function F(n : Integer) : Integer;
+  Begin
+    If n = 0 Then F := 1 Else F := N * F (N - 1);
+  End;
+
+PROCEDURE A();
+	begin
+
+end;
+
+Begin
+  For( n := 1; i < 100; i:=i+1)
+    Begin
+      Call WriteI( F(i));
+	CALL A;
+	a:=b>a?a:b;
+	b:=a(.1,2,a+b.)
+    End;
+	
+End. (* Factorial *)
